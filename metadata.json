@@ -1,0 +1,6 @@
+{
+  "name": "极简汇率",
+  "description": "简洁易用的实时货币换算安卓应用，对接公开汇率数据源并提供离线汇率缓存、手动校准与离线包更新功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
